@@ -2,10 +2,10 @@
 
 **Nombre:** Camila Castaño  
 **Materia:** Programación I  
-**Trabajo:** Práctico 5 - Funciones
+**Trabajo:** Práctico 5 - Funciones   
 **Descripción:** Este trabajo práctico tiene como objetivo aprender a utilizar **funciones en Python** para estructurar y reutilizar el código de forma clara y modular. Cada ejercicio fue resuelto con una función específica y comentarios que explican brevemente su propósito.
 
-##Contenidos aplicados
+Contenidos aplicados:
 
 - Definición y uso de funciones
 - Parámetros y retorno de valores
