@@ -1,4 +1,4 @@
-# Trabajo Práctico 11: Aplicación de la Recursividad.
+# Trabajo Práctico 6: Aplicación de la Recursividad.
 # Alumna: Camila Castaño. 
 
 # Ejercicio 1
