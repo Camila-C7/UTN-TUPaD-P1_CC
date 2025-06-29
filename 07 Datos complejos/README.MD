@@ -1,6 +1,6 @@
 # Práctico 7 - Estructuras de datos complejas en Python
 
-**Nombre:** Camila Castaño 
+**Nombre:** Camila Castaño   
 **Materia:** Programación I  
 **Trabajo:** Práctico 7 - Estructuras de datos complejas  
 **Descripción:** Este trabajo práctico tiene como objetivo aprender a utilizar **estructuras de datos complejas en Python**, como diccionarios, sets y tuplas, para organizar y manipular información de forma eficiente. Cada ejercicio fue resuelto aplicando buenas prácticas y comentando el código para una mejor comprensión.
