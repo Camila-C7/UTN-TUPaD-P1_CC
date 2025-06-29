@@ -1,8 +1,8 @@
-# Trabajo Práctico 11: Aplicación de la Recursividad
-# Alumna: Camila Castaño 
+# Trabajo Práctico 11: Aplicación de la Recursividad.
+# Alumna: Camila Castaño. 
 
 # Ejercicio 1
-# Calcula el factorial de un número y lo muestra desde 1 hasta el número ingresado
+# Función recursiva que calcula el factorial de un número.
 
 def factorial(n):
     if n == 0 or n == 1:
@@ -15,7 +15,7 @@ for i in range(1, limite + 1):
 
 
 # Ejercicio 2
-# Calcula el valor de Fibonacci en una posición y muestra la serie completa hasta esa posición
+# Función recursiva para calcular el número de Fibonacci en una posición.
 
 def fibonacci(n):
     if n == 0:
@@ -31,7 +31,7 @@ for i in range(posicion + 1):
 
 
 # Ejercicio 3
-# Calcula la potencia de un número de forma recursiva
+# Función que calcula una potencia usando recursividad.
 
 def potencia(base, exponente):
     if exponente == 0:
